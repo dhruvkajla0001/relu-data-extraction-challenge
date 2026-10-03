@@ -1,0 +1,28 @@
+DISNEY CRUISE — OBJECTIVE 1 RESULTS
+====================================
+
+Extraction
+----------
+API pages fetched              : 35
+API reported total cruises     : 948
+Unique cruise products         : 110
+Final CSV rows                 : 323
+
+Challenge Answers
+-----------------
+1. Pacific destination cruises : 24
+2. Total cruises               : 948
+3. Holiday cruises             : 49
+4. Cruises with >2 dates       : 37
+5. Miami + London departures   : 0
+
+Departure Breakdown
+-------------------
+Miami departures               : 0
+London departures              : 0
+
+Files
+-----
+Raw JSON                       : disney_all_pages.json
+Final CSV                      : disney_cruises_final.csv
+Answers                        : disney_objective1_answers.txt

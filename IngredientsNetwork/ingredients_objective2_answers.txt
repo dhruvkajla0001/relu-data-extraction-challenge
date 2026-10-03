@@ -1,0 +1,20 @@
+INGREDIENTS NETWORK - OBJECTIVE 2
+=================================
+
+1. Total ingredients: 291
+2. Total finished products: 291
+3. Companies with Herbs and Spices: 237
+4. Companies with physical delivery formats: 236
+5. Companies in Cognitive & Mental Health: 236
+
+SCRAPE SUMMARY
+--------------
+Company URLs discovered: 291
+Company profiles successfully scraped: 291
+Failed/missing profiles: 0
+CSV: ingredients_network_final.csv
+Checkpoint: ingredients_network_checkpoint.json
+
+NOTE
+----
+Ingredients and Finished Products are scraper-derived filter counts.
