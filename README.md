@@ -1,7 +1,3 @@
-Absolutely. Your current README is technically good, but we can make it look much more like a **professional engineering submission**: clear architecture, methodology, data quality, outputs, reproducibility, bonus application, and limitations.
-
-I would use this as the complete replacement for `README.md`:
-
 ````markdown
 # Relu Consultancy — Data Extraction Engineer Hiring Challenge
 
