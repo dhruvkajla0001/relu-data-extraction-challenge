@@ -1,0 +1,324 @@
+api_page,product_id,product_name,product_display_name,sailing_id,package_id,package_code,ship,destination,geo_area,number_of_nights,number_of_sailings,departure_port,is_pacific,is_holiday
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0100,30027549,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0094,30027543,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0164,30468955,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0160,30468951,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0154,30468945,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0150,30468941,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0152,30468943,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0148,30468939,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0096,30027545,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0146,30468937,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0212,30884313,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0214,30884315,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0210,30884311,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0206,30884307,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0208,30884309,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0204,30884305,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0198,30884299,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0196,30884297,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0092,30027541,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0162,30468953,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0190,30468981,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0192,30468983,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0124,30468915,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0174,30468965,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0216,30884317,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0200,30884301,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0194,30884295,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0144,30468935,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0104,30027553,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0180,30468971,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0186,30468977,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0188,30468979,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0182,30468973,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0184,30468975,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0170,30468961,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0176,30468967,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0178,30468969,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0168,30468959,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0166,30468957,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0130,30468921,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0172,30468963,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0158,30468949,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0156,30468947,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0202,30884303,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0218,30884319,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0140,30468931,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0220,30884321,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0132,30468923,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0126,30468917,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0142,30468933,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0098,30027547,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0138,30468929,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0222,30884323,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0128,30468919,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0136,30468927,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0224,30884325,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0226,30884327,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0090,30027539,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0134,30468925,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0102,30027551,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0088,30027537,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0086,30027535,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0108,30027557,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,3_singapore,3-Night Cruise from Singapore,3-Night Cruise from Singapore,DA0106,30027555,3SIN,Disney Adventure,SINGAPORE,SINGAPORE,3,64,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0095,30027544,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0097,30027546,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0089,30027538,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0125,30468916,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0127,30468918,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0153,30468944,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0155,30468946,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0149,30468940,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0091,30027540,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0101,30027550,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0093,30027542,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0197,30884298,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0199,30884300,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0193,30848259,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0195,30884296,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0099,30027548,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0087,30027536,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0085,30027534,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0103,30027552,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0191,30468982,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0175,30468966,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0181,30468972,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0187,30468978,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0189,30468980,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0167,30468958,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0183,30468974,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0185,30468976,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0179,30468970,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0177,30468968,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0171,30468962,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0173,30468964,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0169,30468960,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0201,30884302,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0139,30468930,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0105,30027554,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0227,30884328,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0133,30468924,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_singapore,4-Night Cruise from Singapore,4-Night Cruise from Singapore,DA0107,30027556,4SIN,Disney Adventure,SINGAPORE,SINGAPORE,4,38,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0137,30468928,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0165,30468956,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0143,30468934,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0163,30468954,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0159,30468950,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0151,30468942,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0213,30884314,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0215,30884316,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0211,30884312,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0205,30884306,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0207,30884308,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0203,30884304,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0209,30884310,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0161,30468952,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0217,30884318,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0145,30468936,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0135,30468926,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0131,30468922,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0147,30468938,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0219,30884320,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0221,30884322,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0141,30468932,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0223,30884324,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0129,30468920,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0157,30468948,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0225,30884326,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,4_langkawi_singapore,4-Night Langkawi Cruise from Singapore,4-Night Langkawi Cruise from Singapore,DA0109,30027558,4SIN,Disney Adventure,SINGAPORE,SINGAPORE B,4,27,,False,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2239,30076975,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2237,30076973,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2230,30076966,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2211,30076947,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2308,30867348,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2318,30867358,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2226,30076962,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2302,30867342,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2314,30867354,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2241,30076977,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2329,30867369,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2316,30867356,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2304,30867344,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2309,30867349,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2311,30867351,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2244,30076980,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2235,30076971,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2326,30867366,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2323,30867363,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2321,30867361,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,3_baja_san_diego,3-Night Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DW2325,30867365,3SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,3,21,,True,False
+1,4_baja_san_diego,4-Night Baja Cruise from San Diego,4-Night Baja Cruise from San Diego,DW2231,30076967,4SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,4,9,,True,False
+1,4_baja_san_diego,4-Night Baja Cruise from San Diego,4-Night Baja Cruise from San Diego,DW2238,30076974,4SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,4,9,,True,False
+1,4_baja_san_diego,4-Night Baja Cruise from San Diego,4-Night Baja Cruise from San Diego,DW2225,30076961,4SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,4,9,,True,False
+1,4_baja_san_diego,4-Night Baja Cruise from San Diego,4-Night Baja Cruise from San Diego,DW2242,30076978,4SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,4,9,,True,False
+1,4_baja_san_diego,4-Night Baja Cruise from San Diego,4-Night Baja Cruise from San Diego,DW2289,30867329,4SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,4,9,,True,False
+1,4_baja_san_diego,4-Night Baja Cruise from San Diego,4-Night Baja Cruise from San Diego,DW2252,30076988,4SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,4,9,,True,False
+1,4_baja_san_diego,4-Night Baja Cruise from San Diego,4-Night Baja Cruise from San Diego,DW2310,30867350,4SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,4,9,,True,False
+1,4_baja_san_diego,4-Night Baja Cruise from San Diego,4-Night Baja Cruise from San Diego,DW2245,30076981,4SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,4,9,,True,False
+1,4_baja_san_diego,4-Night Baja Cruise from San Diego,4-Night Baja Cruise from San Diego,DW2247,30076983,4SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,4,9,,True,False
+2,4_baja_san_diego,4-Night Baja Cruise from San Diego,4-Night Baja Cruise from San Diego,DW2229,30076965,4SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,4,18,,True,False
+2,3_bahamian_fort_lauderdale,3-Night Bahamian Cruise from Fort Lauderdale,3-Night Bahamian Cruise from Fort Lauderdale,DD1526,30063665,3PEF,Disney Dream,BAHAMAS,BAHAMAS,3,3,,False,False
+2,4_baja_san_diego_merrytime,4-Night Very Merrytime Baja Cruise from San Diego,4-Night Baja Cruise from San Diego,DW2213,30076949,4SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,4,1,,True,True
+3,3_bahamian_fort_lauderdale_merrytime,3-Night Very Merrytime Bahamian Cruise from Fort Lauderdale,3-Night Bahamian Cruise from Fort Lauderdale,DD1535,30063674,3PEF,Disney Dream,BAHAMAS,BAHAMAS,3,9,,False,True
+3,4_baja_san_diego_merrytime,4-Night Very Merrytime Baja Cruise from San Diego,4-Night Baja Cruise from San Diego,DW2219,30076955,4SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,4,6,,True,True
+3,4_baja_san_diego_halloween,4-Night Halloween on the High Seas Baja Cruise from San Diego,4-Night Baja Cruise from San Diego,DW2208,30076944,4SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,4,1,,True,True
+3,3_baja_san_diego_halloween,3-Night Halloween on the High Seas Baja Cruise from San Diego,3-Night Baja Cruise from San Diego,DM1755,30063262,3SAN,Disney Magic,MEXICAN RIVIERA,BAJA,3,8,,True,True
+3,4_pacific_coast_san_diego_vancouver,4-Night Pacific Coast Cruise from San Diego ending in Vancouver,4-Night Pacific Coast Cruise from San Diego ending in Vancouver,DW2332,30867372,4SAVA,Disney Wonder,CALIFORNIA COAST,ALASKA N A,4,3,,True,False
+4,3_bahamian_fort_lauderdale,3-Night Bahamian Cruise from Fort Lauderdale,3-Night Bahamian Cruise from Fort Lauderdale,DD1541,30063680,3PEF,Disney Dream,BAHAMAS,BAHAMAS,3,26,,False,False
+4,4_pacific_coast_vancouver_san_diego,4-Night Pacific Coast Cruise from Vancouver ending in San Diego,4-Night Pacific Coast Cruise from Vancouver ending in San Diego,DW2278,30867318,4VASA,Disney Wonder,CALIFORNIA COAST,ALASKA S A,4,2,,True,False
+4,4_western_caribbean_galveston_merrytime,4-Night Very Merrytime Western Caribbean Cruise from Galveston,4-Night Western Caribbean Cruise from Galveston,DM1765,30063270,4GLS,Disney Magic,CARIBBEAN,WESTERN,4,5,,False,True
+4,5_mexican_riviera_san_diego_halloween,5-Night Halloween on the High Seas Mexican Riviera Cruise from San Diego,5-Night Mexican Riviera Cruise from San Diego,DW2209,30076945,5SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,5,4,,True,True
+4,3_bahamian_port_canaveral,3-Night Bahamian Cruise from Port Canaveral,3-Night Bahamian Cruise from Port Canaveral,WW0526,30062285,3PCV,Disney Wish,BAHAMAS,BAHAMAS,3,56,,False,False
+5,4_bahamian_fort_lauderdale_halloween,4-Night Halloween on the High Seas Bahamian Cruise from Fort Lauderdale,4-Night Bahamian Cruise from Fort Lauderdale,DD1523,30063662,4PEF,Disney Dream,BAHAMAS,BAHAMAS,4,4,,False,True
+5,4_western_caribbean_galveston,4-Night Western Caribbean Cruise from Galveston,4-Night Western Caribbean Cruise from Galveston,DM1833,30885063,4GLS,Disney Magic,CARIBBEAN,WESTERN,4,13,,False,False
+5,4_bahamian_fort_lauderdale_halloween,4-Night Halloween on the High Seas Bahamian Cruise from Fort Lauderdale,4-Night Bahamian Cruise from Fort Lauderdale,DD1521,30063660,4PEF,Disney Dream,BAHAMAS,BAHAMAS,4,2,,False,True
+5,3_bahamian_fort_lauderdale_halloween,3-Night Halloween on the High Seas Bahamian Cruise from Fort Lauderdale,3-Night Bahamian Cruise from Fort Lauderdale,DD1520,30063659,3PEF,Disney Dream,BAHAMAS,BAHAMAS,3,4,,False,True
+5,4_bahamian_fort_lauderdale_merrytime,4-Night Very Merrytime Bahamian Cruise from Fort Lauderdale,4-Night Bahamian Cruise from Fort Lauderdale,DD1532,30063671,4PEF,Disney Dream,BAHAMAS,BAHAMAS,4,8,,False,True
+6,4_bahamian_fort_lauderdale,4-Night Bahamian Cruise from Fort Lauderdale,4-Night Bahamian Cruise from Fort Lauderdale,DD1527,30063666,4PEF,Disney Dream,BAHAMAS,BAHAMAS,4,22,,False,False
+6,5_mexican_riviera_san_diego_merrytime,5-Night Very Merrytime Mexican Riviera Cruise from San Diego,5-Night Mexican Riviera Cruise from San Diego,DW2217,30076953,5SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,5,2,,True,True
+6,3_bahamian_port_canaveral_merrytime,3-Night Very Merrytime Bahamian Cruise from Port Canaveral,3-Night Bahamian Cruise from Port Canaveral,WW0536,30062295,3PCV,Disney Wish,BAHAMAS,BAHAMAS,3,13,,False,True
+6,4_bahamian_fort_lauderdale,4-Night Bahamian Cruise from Fort Lauderdale,4-Night Bahamian Cruise from Fort Lauderdale,DD1525,30063664,4PEF,Disney Dream,BAHAMAS,BAHAMAS,4,15,,False,False
+6,4_baja_san_diego_halloween,4-Night Halloween on the High Seas Baja Cruise from San Diego,4-Night Baja Cruise from San Diego,DW2285,30867325,4SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,4,5,,True,True
+7,3_bahamian_port_canaveral_halloween,3-Night Halloween on the High Seas Bahamian Cruise from Port Canaveral,3-Night Bahamian Cruise from Port Canaveral,DD1608,30887980,3PCV,Disney Dream,BAHAMAS,BAHAMAS,3,12,,False,True
+7,6_mexican_riviera_san_diego_merrytime,6-Night Very Merrytime Mexican Riviera Cruise from San Diego,6-Night Mexican Riviera Cruise from San Diego,DW2215,30076951,6SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,6,1,,True,True
+7,4_bahamian_port_canaveral_halloween,4-Night Halloween on the High Seas Bahamian Cruise from Port Canaveral,4-Night Bahamian Cruise from Port Canaveral,DF0836,30056313,4PCV,Disney Fantasy,BAHAMAS,BAHAMAS,4,15,,False,True
+7,5_western_caribbean_galveston_merrytime,5-Night Very Merrytime Western Caribbean Cruise from Galveston,5-Night Western Caribbean Cruise from Galveston,DM1762,30063267,5GLS,Disney Magic,CARIBBEAN,WESTERN,5,9,,False,True
+7,6_mexican_riviera_san_diego_halloween,6-Night Halloween on the High Seas Mexican Riviera Cruise from San Diego,6-Night Mexican Riviera Cruise from San Diego,DW2210,30076946,6SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,6,4,,True,True
+8,3_bahamian_fort_lauderdale_halloween,3-Night Halloween on the High Seas Bahamian Cruise from Fort Lauderdale,3-Night Bahamian Cruise from Fort Lauderdale,DD1524,30063663,3PEF,Disney Dream,BAHAMAS,BAHAMAS,3,1,,False,True
+8,3_bahamian_port_canaveral,3-Night Bahamian Cruise from Port Canaveral,3-Night Bahamian Cruise from Port Canaveral,WW0627,30887073,3PCV,Disney Wish,BAHAMAS,BAHAMAS,3,6,,False,False
+8,4_bahamian_port_canaveral,4-Night Bahamian Cruise from Port Canaveral,4-Night Bahamian Cruise from Port Canaveral,WW0525,30062284,4PCV,Disney Wish,BAHAMAS,BAHAMAS,4,36,,False,False
+8,4_western_caribbean_galveston_marvel,4-Night Western Caribbean Cruise from Galveston with Marvel Days at Sea,4-Night Western Caribbean Cruise from Galveston,DM1773,30063278,4GLS,Disney Magic,CARIBBEAN,WESTERN,4,3,,False,True
+8,4_bahamian_fort_lauderdale,4-Night Bahamian Cruise from Fort Lauderdale,4-Night Bahamian Cruise from Fort Lauderdale,DD1653,30888266,4PEF,Disney Dream,BAHAMAS,BAHAMAS,4,16,,False,False
+9,4_bahamian_port_canaveral_merrytime,4-Night Very Merrytime Bahamian Cruise from Port Canaveral,4-Night Bahamian Cruise from Port Canaveral,DF0845,30056322,4PCV,Disney Fantasy,BAHAMAS,BAHAMAS,4,14,,False,True
+9,4_bahamian_port_canaveral_merrytime,4-Night Very Merrytime Bahamian Cruise from Port Canaveral,4-Night Bahamian Cruise from Port Canaveral,WW0529,30062288,4PCV,Disney Wish,BAHAMAS,BAHAMAS,4,4,,False,True
+9,5_baja_san_diego,5-Night Baja Cruise from San Diego,5-Night Baja Cruise from San Diego,DM1814,30884971,5SAN,Disney Magic,MEXICAN RIVIERA,WEST COAST E,5,4,,True,False
+9,4_bahamian_fort_lauderdale_halloween,4-Night Halloween on the High Seas Bahamian Cruise from Fort Lauderdale,4-Night Bahamian Cruise from Fort Lauderdale,WD0075,30056837,4PEF,Disney Destiny,BAHAMAS,BAHAMAS,4,1,,False,True
+9,5_baja_san_diego_merrytime,5-Night Very Merrytime Baja Cruise from San Diego,5-Night Baja Cruise from San Diego,DW2296,30867336,5SAN,Disney Wonder,MEXICAN RIVIERA,WEST COAST E,5,2,,True,True
+10,5_western_caribbean_galveston,5-Night Western Caribbean Cruise from Galveston,5-Night Western Caribbean Cruise from Galveston,DM1834,30885064,5GLS,Disney Magic,CARIBBEAN,WESTERN,5,14,,False,False
+10,4_bahamian_port_canaveral,4-Night Bahamian Cruise from Port Canaveral,4-Night Bahamian Cruise from Port Canaveral,DF0905,30468996,4PCV,Disney Fantasy,BAHAMAS,BAHAMAS,4,15,,False,False
+10,5_mexican_riviera_san_diego,5-Night Mexican Riviera Cruise from San Diego,5-Night Mexican Riviera Cruise from San Diego,DW2227,30076963,5SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,5,2,,True,False
+10,5_western_caribbean_galveston_marvel,5-Night Western Caribbean Cruise from Galveston with Marvel Days at Sea,5-Night Western Caribbean Cruise from Galveston,DM1780,30063285,5GLS,Disney Magic,CARIBBEAN,WESTERN,5,5,,False,False
+10,5_baja_san_diego_halloween,5-Night Halloween on the High Seas Baja Cruise from San Diego,5-Night Baja Cruise from San Diego,DM1815,30884972,5SAN,Disney Magic,MEXICAN RIVIERA,WEST COAST E,5,1,,True,True
+11,4_bahamian_port_canaveral_halloween,4-Night Halloween on the High Seas Bahamian Cruise from Port Canaveral,4-Night Bahamian Cruise from Port Canaveral,DD1607,30468014,4PCV,Disney Dream,BAHAMAS,BAHAMAS,4,2,,False,True
+11,3_bahamian_port_canaveral_merrytime,3-Night Very Merrytime Bahamian Cruise from Port Canaveral,3-Night Bahamian Cruise from Port Canaveral,WD0159,30860644,3PCV,Disney Destiny,BAHAMAS,BAHAMAS,3,3,,False,True
+11,5_western_caribbean_galveston,5-Night Western Caribbean Cruise from Galveston,5-Night Western Caribbean Cruise from Galveston,DM1836,30885066,5GLS,Disney Magic,CARIBBEAN,WESTERN,5,1,,False,False
+11,5_bahamian_port_canaveral_halloween,5-Night Halloween on the High Seas Bahamian Cruise from Port Canaveral,5-Night Bahamian Cruise from Port Canaveral,DF0834,30056311,5PCV,Disney Fantasy,BAHAMAS,BAHAMAS,5,9,,False,True
+11,5_bahamian_port_canaveral,5-Night Bahamian Cruise from Port Canaveral,5-Night Bahamian Cruise from Port Canaveral,DF0837,30056314,5PCV,Disney Fantasy,BAHAMAS,BAHAMAS,5,36,,False,False
+12,3_bahamian_fort_lauderdale,3-Night Bahamian Cruise from Fort Lauderdale,3-Night Bahamian Cruise from Fort Lauderdale,WD0138,30469038,3PEF,Disney Destiny,BAHAMAS,BAHAMAS,3,1,,False,False
+12,4_bahamian_fort_lauderdale_merrytime,4-Night Very Merrytime Bahamian Cruise from Fort Lauderdale,4-Night Bahamian Cruise from Fort Lauderdale,WD0078,30056840,4PEF,Disney Destiny,BAHAMAS,BAHAMAS,4,1,,False,True
+12,4_bahamian_fort_lauderdale_merrytime,4-Night Very Merrytime Bahamian Cruise from Fort Lauderdale,4-Night Bahamian Cruise from Fort Lauderdale,DD1530,30063669,4PEF,Disney Dream,BAHAMAS,BAHAMAS,4,4,,False,True
+12,5_western_fort_lauderdale,5-Night Western Caribbean Cruise from Fort Lauderdale,5-Night Western Caribbean Cruise from Fort Lauderdale,WD0091,30056853,5PEF,Disney Destiny,CARIBBEAN,WESTERN,5,16,,False,False
+12,7_mexican_riviera_halloween,7-Night Halloween on the High Seas Mexican Riviera Cruise from San Diego,7-Night Mexican Riviera Cruise from San Diego,DM1758,30063263,7SAN,Disney Magic,MEXICAN RIVIERA,BAJA,7,2,,True,True
+13,5_western_caribbean_fort_lauderdale_halloween,5-Night Halloween on the High Seas Western Caribbean Cruise from Fort Lauderdale,5-Night Western Caribbean Cruise from Fort Lauderdale,WD0074,30056836,5PEF,Disney Destiny,CARIBBEAN,WESTERN,5,4,,False,True
+13,4_bahamian_port_canaveral,4-Night Bahamian Cruise from Port Canaveral,4-Night Bahamian Cruise from Port Canaveral,DD1605,30468012,4PCV,Disney Dream,BAHAMAS,BAHAMAS,4,31,,False,False
+13,4_eastern_caribbean_fort_lauderdale_san_juan,4-Night Eastern Caribbean Cruise from Fort Lauderdale ending in San Juan,4-Night Eastern Caribbean Cruise from Fort Lauderdale ending in San Juan,DD1566,30063705,4PESJ,Disney Dream,CARIBBEAN,EASTERN,4,1,,False,False
+13,6_mexican_riviera_san_diego,6-Night Mexican Riviera Cruise from San Diego,6-Night Mexican Riviera Cruise from San Diego,DW2331,30867371,6SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,6,2,,True,False
+13,4_san_juan_port_canaveral,4-Night Eastern Caribbean Cruise from San Juan ending in Port Canaveral,4-Night Eastern Caribbean Cruise from San Juan ending in Port Canaveral,WW0605,30887051,4SJPC,Disney Wish,CARIBBEAN,EASTERN,4,2,,False,False
+14,5_western_caribbean_port_canaveral_merrytime,5-Night Very Merrytime Western Caribbean Cruise from Port Canaveral,5-Night Western Caribbean Cruise from Port Canaveral,DF0844,30056321,5PCV,Disney Fantasy,CARIBBEAN,WESTERN,5,6,,False,True
+14,5_bahamian_port_canaveral_merrytime,5-Night Very Merrytime Bahamian Cruise from Port Canaveral,5-Night Bahamian Cruise from Port Canaveral,DF0846,30056323,5PCV,Disney Fantasy,BAHAMAS,BAHAMAS,5,4,,False,True
+14,5_eastern_caribbean_port_canaveral_san_juan_merrytime,5-Night Very Merrytime Eastern Caribbean Cruise from Port Canaveral ending San Juan,5-Night Eastern Caribbean Cruise from Port Canaveral ending San Juan,DF0924,30866898,5PCSJ,Disney Fantasy,CARIBBEAN,EASTERN,5,1,,False,True
+14,5_eastern_caribbean_san_juan_fort_lauderdale_merrytime,5-Night Very Merrytime Eastern Caribbean Cruise from San Juan ending in Fort Lauderdale,5-Night Eastern Caribbean Cruise from San Juan ending in Fort Lauderdale,DF0926,30867065,5SJPE,Disney Fantasy,CARIBBEAN,EASTERN,5,1,,False,True
+14,5_bahamian_fort_lauderdale,5-Night Bahamian Cruise from Fort Lauderdale,5-Night Bahamian Cruise from Fort Lauderdale,WD0076,30056838,5PEF,Disney Destiny,BAHAMAS,BAHAMAS,5,15,,False,False
+15,5_bahamian_fort_lauderdale_merrytime,5-Night Very Merrytime Bahamian Cruise from Fort Lauderdale,5-Night Bahamian Cruise from Fort Lauderdale,WD0082,30056844,5PEF,Disney Destiny,BAHAMAS,BAHAMAS,5,4,,False,True
+15,5_western_caribbean_port_canaveral,5-Night Western Caribbean Cruise from Port Canaveral,5-Night Western Caribbean Cruise from Port Canaveral,DF0904,30468995,5PCV,Disney Fantasy,CARIBBEAN,WESTERN,5,5,,False,False
+15,5_western_caribbean_port_canaveral_pdas,5-Night Western Caribbean from Port Canaveral with Pixar Days at Sea,5-Night Western Caribbean from Port Canaveral,DF0857,30056334,5PCV,Disney Fantasy,CARIBBEAN,WESTERN,5,1,,False,False
+15,3_bahamian_fort_lauderdale,3-Night Bahamian Cruise from Fort Lauderdale,3-Night Bahamian Cruise from Fort Lauderdale,DD1639,30888143,3PEF,Disney Dream,BAHAMAS,BAHAMAS,3,1,,False,False
+15,7_bahamian_galveston,7-Night Bahamian Cruise from Galveston,7-Night Bahamian Cruise from Galveston,DM1837,30885067,7GLS,Disney Magic,BAHAMAS,BAHAMAS,7,2,,False,False
+16,7_mexican_riviera,7-Night Mexican Riviera Cruise from San Diego,7-Night Mexican Riviera Cruise from San Diego,DW2279,30867319,7SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,7,1,,True,False
+16,7_mexican_riviera,7-Night Mexican Riviera Cruise from San Diego,7-Night Mexican Riviera Cruise from San Diego,DW2312,30867352,7SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,7,6,,True,False
+16,4_bahamian_port_canaveral_merrytime,4-Night Very Merrytime Bahamian Cruise from Port Canaveral,4-Night Bahamian Cruise from Port Canaveral,WW0610,30887056,4PCV,Disney Wish,BAHAMAS,BAHAMAS,4,1,,False,True
+16,5_western_caribbean_port_canaveral_halloween,5-Night Halloween on the High Seas Western Caribbean Cruise from Port Canaveral,5-Night Western Caribbean Cruise from Port Canaveral,DF0832,30056309,5PCV,Disney Fantasy,CARIBBEAN,WESTERN,5,1,,False,True
+16,7_bahamian_galveston_mdas,7-Night Bahamian Cruise from Galveston with Marvel Days at Sea,7-Night Bahamian Cruise from Galveston,DM1774,30063279,7GLS,Disney Magic,BAHAMAS,BAHAMAS,7,2,,False,False
+17,3_bahamian_fort_lauderdale_merrytime,3-Night Very Merrytime Bahamian Cruise from Fort Lauderdale,3-Night Bahamian Cruise from Fort Lauderdale,DD1638,30888010,3PEF,Disney Dream,BAHAMAS,BAHAMAS,3,1,,False,True
+17,7_eastern_caribbean_fort_lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,DD1545,30063684,7PEF,Disney Dream,CARIBBEAN,EASTERNTT,7,2,,False,False
+17,7_mexican_riviera_san_diego_merrytime,7-Night Very Merrytime Mexican Riviera Cruise from San Diego,7-Night Mexican Riviera Cruise from San Diego,DW2295,30867335,7SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,7,2,,True,True
+17,5_bahamian_port_canaveral_pixar,5-Night Bahamian Cruise from Port Canaveral with Pixar Days at Sea,5-Night Bahamian Cruise from Port Canaveral,DF0856,30056333,5PCV,Disney Fantasy,BAHAMAS,BAHAMAS,5,1,,False,False
+17,6_eastern_caribbean_san_juan_port_canaveral,6-Night Eastern Caribbean Cruise from San Juan ending in Port Canaveral,6-Night Eastern Caribbean Cruise from San Juan ending in Port Canaveral,DF0952,30867091,6SJPC,Disney Fantasy,CARIBBEAN,EASTERN,6,1,,False,False
+18,6_bahamian_fort_lauderdale,6-Night Bahamian Cruise from Fort Lauderdale,6-Night Bahamian Cruise from Fort Lauderdale,DF0930,30867069,6PEF,Disney Fantasy,BAHAMAS,BAHAMAS,6,1,,False,False
+18,6_eastern_caribbean_fort_lauderdale,6-Night Eastern Caribbean Cruise from Fort Lauderdale,6-Night Eastern Caribbean Cruise from Fort Lauderdale,DF0933,30867072,6PEF,Disney Fantasy,CARIBBEAN,EASTERN,6,4,,False,False
+18,6_eastern_caribbean_fort_lauderdale_san_juan,6-Night Eastern Caribbean Cruise from Fort Lauderdale ending San Juan,6-Night Eastern Caribbean Cruise from Fort Lauderdale ending San Juan,DF0949,30867088,6PESJ,Disney Fantasy,CARIBBEAN,EASTERN,6,1,,False,False
+18,5_bahamian_port_canaveral_pixar,5-Night Bahamian Cruise from Port Canaveral with Pixar Days at Sea,5-Night Bahamian Cruise from Port Canaveral,DF0862,30056339,5PCV,Disney Fantasy,BAHAMAS,BAHAMAS,5,7,,False,False
+18,3_belgium_southampton,3-Night Belgium Cruise from Southampton,3-Night Belgium Cruise from Southampton,WW0590,30469610,3SOU,Disney Wish,EUROPE,WEST EUROPE,3,1,,False,False
+19,3_northern_europe_southampton,3-Night Northern Europe Cruise from Southampton,3-Night Northern Europe Cruise from Southampton,WW0592,30469612,3SOU,Disney Wish,EUROPE,NORTH EUROPE,3,1,,False,False
+19,7_alaskan_vancouver,7-Night Alaskan Cruise from Vancouver,7-Night Alaskan Cruise from Vancouver,DM1795,30469148,7VAN,Disney Magic,ALASKA,ALASKA,7,16,,True,False
+19,5_bahamian_fort_lauderdale_halloween,5-Night Halloween on the High Seas Bahamian Cruise from Fort Lauderdale,5-Night Bahamian Cruise from Fort Lauderdale,WD0149,30853266,5PEF,Disney Destiny,BAHAMAS,BAHAMAS,5,3,,False,True
+19,7_western_caribbean_port_canaveral_halloween,7-Night Halloween on the High Seas Western Caribbean Cruise from Port Canaveral,7-Night Western Caribbean Cruise from Port Canaveral,WT0098,30056757,7PCV,Disney Treasure,CARIBBEAN,WESTERN D,7,6,,False,True
+19,7_western_caribbean_fort_lauderdale_halloween,7-Night Halloween on the High Seas Western Caribbean Cruise from Fort Lauderdale,7-Night Western Caribbean Cruise from Fort Lauderdale,WD0072,30056834,7PEF,Disney Destiny,CARIBBEAN,WESTERN,7,1,,False,True
+20,7_western_caribbean_port_canaveral,7-Night Western Caribbean Cruise from Port Canaveral,7-Night Western Caribbean Cruise from Port Canaveral,WT0108,30056767,7PCV,Disney Treasure,CARIBBEAN,WESTERN D,7,27,,False,False
+20,5_bahamian_port_canaveral_merrytime,5-Night Very Merrytime Bahamian Cruise from Port Canaveral,5-Night Bahamian Cruise from Port Canaveral,DF0921,30866895,5PCV,Disney Fantasy,BAHAMAS,BAHAMAS,5,1,,False,True
+20,5_bahamian_port_canaveral_dd,5-Night Bahamian Cruise from Port Canaveral with 2 Stops at Castaway Cay,5-Night Bahamian Cruise from Port Canaveral with 2 Stops at Castaway Cay,DF0854,30056331,5PCV,Disney Fantasy,BAHAMAS,BAHAMAS2CC,5,4,,False,False
+20,5_bahamian_fort_lauderdale_merrytime,5-Night Very Merrytime Bahamian Cruise from Fort Lauderdale,5-Night Bahamian Cruise from Fort Lauderdale,WD0081,30077466,5PEF,Disney Destiny,BAHAMAS,BAHAMAS,5,1,,False,True
+20,7_western_caribbean_port_canaveral_merrytime,7-Night Very Merrytime Western Caribbean Cruise from Port Canaveral,7-Night Western Caribbean Cruise from Port Canaveral,WT0102,30056761,7PCV,Disney Treasure,CARIBBEAN,WESTERN D,7,6,,False,True
+21,7_eastern_caribbean_port_canaveral_halloween,7-Night Halloween on the High Seas Eastern Caribbean Cruise from Port Canaveral,7-Night Eastern Caribbean Cruise from Port Canaveral,WT0097,30056756,7PCV,Disney Treasure,CARIBBEAN,EASTERNTT,7,5,,False,True
+21,5_bahamian_fort_lauderdale,5-Night Bahamian Cruise from Fort Lauderdale,5-Night Bahamian Cruise from Fort Lauderdale,WD0110,30056872,5PEF,Disney Destiny,BAHAMAS,BAHAMAS,5,2,,False,False
+21,4_bahamian_port_canaveral_merrytime,4-Night Very Merrytime Bahamian Cruise from Port Canaveral,4-Night Bahamian Cruise from Port Canaveral,WW0540,30062299,4PCV,Disney Wish,BAHAMAS,BAHAMAS,4,1,,False,True
+21,5_bermuda_new_york_san_juan_halloween,5-Night Halloween on the High Seas Bermuda Cruise from New York ending in San Juan,5-Night Bermuda Cruise from New York ending in San Juan,WW0603,30887049,5NYSJ,Disney Wish,BERMUDA,BERMUDA,5,1,,False,True
+21,7_eastern_caribbean_port_canaveral,7-Night Eastern Caribbean Cruise from Port Canaveral,7-Night Eastern Caribbean Cruise from Port Canaveral,WT0115,30056774,7PCV,Disney Treasure,CARIBBEAN,EASTERNTT,7,4,,False,False
+22,6_alaskan_vancouver,6-Night Alaskan Cruise from Vancouver,6-Night Alaskan Cruise from Vancouver,DM1805,30469158,6VAN,Disney Magic,ALASKA,ALASKA,6,1,,True,False
+22,7_bahamian_galveston,7-Night Bahamian Cruise from Galveston,7-Night Bahamian Cruise from Galveston,DM1791,30063296,7GLS,Disney Magic,BAHAMAS,BAHAMAS,7,3,,False,False
+22,7_eastern_caribbean_fort_lauderdale_merrytime,7-Night Very Merrytime Eastern Caribbean Cruise from Fort Lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,DD1528,30063667,7PEF,Disney Dream,CARIBBEAN,EASTERN,7,1,,False,True
+22,7_eastern_caribbean_fort_lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,DF0937,30867076,7PEF,Disney Fantasy,CARIBBEAN,EASTERN,7,2,,False,False
+22,7_eastern_caribbean_port_canaveral,7-Night Eastern Caribbean Cruise from Port Canaveral,7-Night Eastern Caribbean Cruise from Port Canaveral,WT0111,30056770,7PCV,Disney Treasure,CARIBBEAN,EASTERNTT,7,25,,False,False
+23,4_spain_southampton,4-Night Spain Cruise from Southampton,4-Night Spain Cruise from Southampton,WW0589,30469609,4SOU,Disney Wish,EUROPE,WEST EUROPE A,4,1,,False,False
+23,7_eastern_caribbean_fort_lauderdale_halloween,7-Night Halloween on the High Seas Eastern Caribbean Cruise from Fort Lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,WD0073,30056835,7PEF,Disney Destiny,CARIBBEAN,EASTERN,7,1,,False,True
+23,7_alaskan_vancouver,7-Night Alaskan Cruise from Vancouver,7-Night Alaskan Cruise from Vancouver,DW2258,30469572,7VAN,Disney Wonder,ALASKA,ALASKA,7,19,,True,False
+23,7_mexican_riviera_san_diego_merrytime,7-Night Very Merrytime Mexican Riviera Cruise from San Diego,7-Night Mexican Riviera Cruise from San Diego,DW2216,30076952,7SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,7,1,,True,True
+23,7_eastern_caribbean_port_canaveral_merrytime,7-Night Very Merrytime Eastern Caribbean Cruise from Port Canaveral,7-Night Eastern Caribbean Cruise from Port Canaveral,WT0103,30056762,7PCV,Disney Treasure,CARIBBEAN,EASTERNTT,7,4,,False,True
+24,7_eastern_caribbean_fort_lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,DF0936,30867075,7PEF,Disney Fantasy,CARIBBEAN,EASTERN,7,1,,False,False
+24,7_eastern_caribbean_fort_lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,DF0941,30867080,7PEF,Disney Fantasy,CARIBBEAN,EASTERN,7,3,,False,False
+24,4_spain_southampton,4-Night Spain Cruise from Southampton,4-Night Spain Cruise from Southampton,WW0593,30469613,4SOU,Disney Wish,EUROPE,WEST EUROPE A,4,2,,False,False
+24,7_eastern_caribbean_fort_lauderdale_merrytime,7-Night Very Merrytime Eastern Caribbean Cruise from Fort Lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,WD0084,30056846,7PEF,Disney Destiny,CARIBBEAN,EASTERN,7,1,,False,True
+24,7_bahamian_fort_lauderdale_dd_merrytime,7-Night Very Merrytime Bahamian Cruise from Fort Lauderdale with 2 stops at Castaway Cay,7-Night Bahamian Cruise from Fort Lauderdale with 2 stops at Castaway Cay,WD0083,30056845,7PEF,Disney Destiny,BAHAMAS,BAHAMAS2CC,7,1,,False,True
+25,7_southern_caribbean_san_juan,7-Night Southern Caribbean Cruise from San Juan,7-Night Southern Caribbean Cruise from San Juan,DF0951,30867090,7SJU,Disney Fantasy,CARIBBEAN,SOUTHERN,7,1,,False,False
+25,6_western_caribbean_port_canaveral,6-Night Western Caribbean Cruise from Port Canaveral,6-Night Western Caribbean Cruise from Port Canaveral,WD0167,30860664,6PCV,Disney Destiny,CARIBBEAN,WESTERN,6,1,,False,False
+25,7_southern_caribbean_san_juan_merrytime,7-Night Very Merrytime Southern Caribbean Cruise from San Juan,7-Night Southern Caribbean Cruise from San Juan,DF0925,30867064,7SJU,Disney Fantasy,CARIBBEAN,SOUTHERN,7,1,,False,True
+25,6_bahamian_port_canaveral_dd,6-Night Bahamian Cruise from Port Canaveral with 2 Stops at Castaway Cay,6-Night Bahamian Cruise from Port Canaveral with 2 Stops at Castaway Cay,WT0160,30867228,6PCV,Disney Treasure,BAHAMAS,BAHAMAS2CC,6,1,,False,True
+25,6_bahamian_fort_lauderdale_merrytime,6-Night Very Merrytime Bahamian Cruise from Fort Lauderdale,6-Night Bahamian Cruise from Fort Lauderdale,DD1538,30063677,6PEF,Disney Dream,BAHAMAS,BAHAMAS,6,1,,False,True
+26,7_eastern_caribbean_fort_lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,DF0942,30867081,7PEF,Disney Fantasy,CARIBBEAN,EASTERN,7,2,,False,False
+26,7_southern_caribbean_san_juan,7-Night Southern Caribbean Cruise from San Juan,7-Night Southern Caribbean Cruise from San Juan,DF0950,30867089,7SJU,Disney Fantasy,CARIBBEAN,SOUTHERN,7,1,,False,False
+26,5_bahamian_fort_lauderdale_merrytime,5-Night Very Merrytime Bahamian Cruise from Fort Lauderdale,5-Night Bahamian Cruise from Fort Lauderdale,WD0157,30860642,5PEF,Disney Destiny,BAHAMAS,BAHAMAS,5,1,,False,True
+26,7_southern_caribbean_san_juan,7-Night Southern Caribbean Cruise from San Juan,7-Night Southern Caribbean Cruise from San Juan,WW0604,30887050,7SJU,Disney Wish,CARIBBEAN,SOUTHERN,7,1,,False,False
+26,7_eastern_caribbean_fort_lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,DD1552,30063691,7PEF,Disney Dream,CARIBBEAN,EASTERN,7,1,,False,False
+27,6_bahamian_fort_lauderdale_dd_merrytime,6-Night Very Merrytime Bahamian Cruise from Fort Lauderdale with 2 Stops at Castaway Cay,6-Night Bahamian Cruise from Fort Lauderdale with 2 Stops at Castaway Cay,DD1630,30888002,6PEF,Disney Dream,BAHAMAS,BAHAMAS2CC,6,1,,False,True
+27,14_panama_canal_san_diego_galveston,14-Night Eastbound Panama Canal Cruise from San Diego ending in Galveston,14-Night Eastbound Panama Canal Cruise from San Diego ending in Galveston,DM1759,30063264,14SAGL,Disney Magic,TRANS PANAMA CANAL,PANAMA CANAL E,14,1,,True,False
+27,14_westbound_panama_canal_galveston_san_diego,14-Night Westbound Panama Canal Cruise from Galveston ending in San Diego,14-Night Westbound Panama Canal Cruise from Galveston ending in San Diego,DM1850,30885243,14GLSA,Disney Magic,TRANS PANAMA CANAL,PANAMA CANAL W,14,1,,True,False
+27,7_bahamian_galveston_merrytime,7-Night Very Merrytime Bahamian Cruise from Galveston,7-Night Bahamian Cruise from Galveston,DM1825,30885021,7GLS,Disney Magic,BAHAMAS,BAHAMAS,7,1,,False,True
+27,5_canada_new_england_new_york_halloween,5-Night Halloween on the High Seas Canada & New England Cruise from New York,5-Night Canada & New England Cruise from New York,WW0598,30887044,5NYC,Disney Wish,CANADA,NEW YORK CA,5,1,,False,True
+28,5_spain_southampton,5-Night Spain Cruise from Southampton,5-Night Spain Cruise from Southampton,WW0587,30469604,5SOU,Disney Wish,EUROPE,WEST EUROPE,5,1,,False,False
+28,14_panama_canal_san_diego_galveston,14-Night Eastbound Panama Canal Cruise from San Diego ending in Galveston,14-Night Eastbound Panama Canal Cruise from San Diego ending in Galveston,DM1823,30885019,14SAGL,Disney Magic,TRANS PANAMA CANAL,PANAMA CANAL E,14,1,,True,False
+28,8_alaska_vancouver,8-Night Alaskan Cruise from Vancouver,8-Night Alaskan Cruise from Vancouver,DM1804,30469157,8VAN,Disney Magic,ALASKA,ALASKA,8,1,,True,False
+28,6_bermuda_canada_new_york_halloween,6-Night Halloween on the High Seas Bermuda & Canada Cruise from New York,6-Night Bermuda & Canada Cruise from New York,WW0599,30887045,6NYC,Disney Wish,CANADA,NEW YORK CA,6,1,,False,True
+28,5_spain_southampton,5-Night Spain Cruise from Southampton,5-Night Spain Cruise from Southampton,WW0588,30469605,5SOU,Disney Wish,EUROPE,WEST EUROPE,5,1,,False,False
+29,7_mexican_riviera_san_diego_merrytime,7-Night Very Merrytime Mexican Riviera Cruise from San Diego,7-Night Mexican Riviera Cruise from San Diego,DW2299,30867339,7SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,7,1,,True,True
+29,7_western_caribbean_fort_lauderdale,7-Night Western Caribbean Cruise from Fort Lauderdale,7-Night Western Caribbean Cruise from Fort Lauderdale,WD0131,30469031,7PEF,Disney Destiny,CARIBBEAN,WESTERN,7,1,,False,False
+29,7_eastern_caribbean_fort_lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,WD0095,30056857,7PEF,Disney Destiny,CARIBBEAN,EASTERN,7,1,,False,False
+29,5_bahamian_fort_lauderdale_merrytime,5-Night Very Merrytime Bahamian Cruise from Fort Lauderdale,5-Night Bahamian Cruise from Fort Lauderdale,WD0086,30056848,5PEF,Disney Destiny,BAHAMAS,BAHAMAS,5,1,,False,True
+29,8_eastern_caribbean_fort_lauderdale,8-Night Eastern Caribbean Cruise from Fort Lauderdale,8-Night Eastern Caribbean Cruise from Fort Lauderdale,DF0948,30867087,8PEF,Disney Fantasy,CARIBBEAN,EASTERN,8,1,,False,False
+30,7_mexican_riviera,7-Night Mexican Riviera Cruise from San Diego,7-Night Mexican Riviera Cruise from San Diego,DW2300,30867340,7SAN,Disney Wonder,MEXICAN RIVIERA,BAJA,7,1,,True,False
+30,5_bermuda_new_york_halloween,5-Night Halloween on the High Seas Bermuda Cruise from New York,5-Night Bermuda Cruise from New York,WW0601,30887047,5NYC,Disney Wish,BERMUDA,BERMUDA,5,2,,False,True
+30,7_eastern_caribbean_port_canaveral,7-Night Eastern Caribbean Cruise from Port Canaveral,7-Night Eastern Caribbean Cruise from Port Canaveral,WT0137,30469011,7PCV,Disney Treasure,CARIBBEAN,EASTERN,7,1,,False,False
+30,7_western_caribbean_fort_lauderdale,7-Night Western Caribbean Cruise from Fort Lauderdale,7-Night Western Caribbean Cruise from Fort Lauderdale,WD0123,30469023,7PEF,Disney Destiny,CARIBBEAN,WESTERN,7,1,,False,False
+30,14_westbound_panama_canal_galveston_san_diego,14-Night Westbound Panama Canal Cruise from Galveston ending in San Diego,14-Night Westbound Panama Canal Cruise from Galveston ending in San Diego,DM1792,30063297,14GLSA,Disney Magic,TRANS PANAMA CANAL,PANAMA CANAL W,14,1,,True,False
+31,6_western_europe_barcelona_southampton,6-Night Western Europe Cruise from Barcelona ending in Southampton,6-Night Western Europe Cruise from Barcelona ending in Southampton,WW0584,30469601,6BCSO,Disney Wish,EUROPE,WEST EUROPE,6,1,,False,False
+31,7_eastern_caribbean_fort_lauderdale_merrytime,7-Night Very Merrytime Eastern Caribbean Cruise from Fort Lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,DF0928,30867067,7PEF,Disney Fantasy,CARIBBEAN,EASTERNTT,7,1,,False,True
+31,7_mediterranean_barcelona,7-Night Mediterranean Cruise from Barcelona,7-Night Mediterranean Cruise from Barcelona,WW0577,30469594,7BCN,Disney Wish,EUROPE,MED,7,2,,False,False
+31,7_mediterranean_barcelona,7-Night Mediterranean Cruise from Barcelona,7-Night Mediterranean Cruise from Barcelona,WW0582,30469599,7BCN,Disney Wish,EUROPE,MED,7,1,,False,False
+31,7_british_isles_southhampton,7-Night British Isles Cruise from Southampton,7-Night British Isles Cruise from Southampton,WW0594,30469614,7SOU,Disney Wish,EUROPE,BRITISH ISLES,7,1,,False,False
+32,8_bermuda_fort_lauderdale,8-Night Bermuda Cruise from Fort Lauderdale,8-Night Bermuda Cruise from Fort Lauderdale,DF0944,30867083,8PEF,Disney Fantasy,BERMUDA,BERMUDA,8,1,,False,False
+32,7_eastern_caribbean_fort_lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,7-Night Eastern Caribbean Cruise from Fort Lauderdale,WD0132,30469032,7PEF,Disney Destiny,CARIBBEAN,EASTERN,7,2,,False,False
+32,7_eastern_caribbean_port_canaveral_merrytime,7-Night Very Merrytime Eastern Caribbean Cruise from Port Canaveral,7-Night Eastern Caribbean Cruise from Port Canaveral,WT0153,30867221,7PCV,Disney Treasure,CARIBBEAN,EASTERNTT,7,1,,False,True
+32,7_northern_europe_southampton,7-Night Northern Europe Cruise from Southampton,7-Night Northern Europe Cruise from Southampton,WW0595,30469615,7SOU,Disney Wish,EUROPE,NORTH EUROPE,7,1,,False,False
+32,7_western_caribbean_port_canaveral_merrytime,7-Night Very Merrytime Western Caribbean Cruise from Port Canaveral,7-Night Western Caribbean Cruise from Port Canaveral,WD0164,30860661,7PCV,Disney Destiny,CARIBBEAN,WESTERN,7,1,,False,True
+33,8_mediterranean_greek_isles_civitavecchia,8-Night Mediterranean Cruise with Greek Isles from Civitavecchia (Rome),8-Night Mediterranean Cruise with Greek Isles from Civitavecchia (Rome),WW0580,30469597,8CVV,Disney Wish,EUROPE,MED,8,1,,False,False
+33,7_southern_caribbean_san_juan,7-Night Southern Caribbean Cruise from San Juan,7-Night Southern Caribbean Cruise from San Juan,DD1567,30063708,7SJU,Disney Dream,CARIBBEAN,SOUTHERN,7,1,,False,False
+33,9_mediterranean_greek_isles_barcelona_civitavecchia,9-Night Mediterranean with Greek Isles Cruise from Barcelona ending in Civitavecchia (Rome),9-Night Mediterranean with Greek Isles Cruise from Barcelona ending in Civitavecchia (Rome),WW0578,30469595,9BCCV,Disney Wish,EUROPE,MED,9,1,,False,False
+33,7_norwegian_fjords_southampton,7-Night Norwegian Fjords Cruise from Southampton,7-Night Norwegian Fjords Cruise from Southampton,WW0585,30469602,7SOU,Disney Wish,EUROPE,NOR FJORDS,7,1,,False,False
+33,7_norwegian_fjords_southampton,7-Night Norwegian Fjords Cruise from Southampton,7-Night Norwegian Fjords Cruise from Southampton,WW0586,30469603,7SOU,Disney Wish,EUROPE,NOR FJORDS,7,1,,False,False
+34,7_western_caribbean_port_canaveral,7-Night Western Caribbean Cruise from Port Canaveral,7-Night Western Caribbean Cruise from Port Canaveral,WT0158,30867226,7PCV,Disney Treasure,CARIBBEAN,WESTERN D,7,1,,False,False
+34,8_eastern_caribbean_port_canaveral_merrytime,8-Night Very Merrytime Eastern Caribbean Cruise from Port Canaveral,8-Night Eastern Caribbean Cruise from Port Canaveral,WT0157,30867225,8PCV,Disney Treasure,CARIBBEAN,EASTERNTT,8,1,,False,True
+34,8_adriatic_sea_greece_civitavecchia,8-Night Adriatic Sea and Greece Cruise from Civitavecchia (Rome),8-Night Adriatic Sea and Greece Cruise from Civitavecchia (Rome),WW0579,30469596,8CVV,Disney Wish,EUROPE,MEDH,8,1,,False,False
+34,10_mediterranean_greek_isles_civitavecchia_barcelona,10-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) ending in Barcelona,10-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) ending in Barcelona,WW0581,30469598,10CVBC,Disney Wish,EUROPE,MED,10,1,,False,False
+34,10_southern_caribbean_port_canaveral,10-Night Southern Caribbean Cruise from Port Canaveral,10-Night Southern Caribbean Cruise from Port Canaveral,DF0895,30468986,10PCV,Disney Fantasy,CARIBBEAN,SOUTHERN,10,1,,False,False
+35,4_bermuda_new_york,4-Night Bermuda Cruise from New York,4-Night Bermuda Cruise from New York,WW0597,30887043,4NYC,Disney Wish,BERMUDA,BERMUDA,4,1,,False,False
